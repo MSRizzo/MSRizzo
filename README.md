@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+The coyote (Canis latrans) is a species of canine native to North America. It is smaller than its close relative, the gray wolf, and slightly smaller than the closely related eastern wolf and red wolf. It fills much of the same ecological niche as the golden jackal does in Eurasia, though it is larger and more predatory and is sometimes called the American jackal by zoologists. Other names for the species, largely historical, include the prairie wolf and the brush wolf.
 
-You can use the [editor on GitHub](https://github.com/MSRizzo/MSRizzo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The coyote is listed as least concern by the International Union for Conservation of Nature, due to its wide distribution and abundance throughout North America, southwards through Mexico and into Central America. The species is versatile, able to adapt to and expand into environments modified by humans. It is enlarging its range, with coyotes moving into urban areas in the eastern U.S., and was sighted in eastern Panama (across the Panama Canal from their home range) for the first time in 2013.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The coyote has 19 recognized subspecies. The average male weighs 8 to 20 kg (18 to 44 lb) and the average female 7 to 18 kg (15 to 40 lb). Their fur color is predominantly light gray and red or fulvous interspersed with black and white, though it varies somewhat with geography. It is highly flexible in social organization, living either in a family unit or in loosely knit packs of unrelated individuals. Primarily carnivorous, its diet consists mainly of deer, rabbits, hares, rodents, birds, reptiles, amphibians, fish, and invertebrates, though it may also eat fruits and vegetables on occasion. Its characteristic vocalization is a howl made by solitary individuals. Humans are the coyote's greatest threat, followed by cougars and gray wolves. In spite of this, coyotes sometimes mate with gray, eastern, or red wolves, producing "coywolf" hybrids. In the northeastern regions of North America, the eastern coyote (a larger subspecies, though still smaller than wolves) is the result of various historical and recent matings with various types of wolves. Genetic studies show that most North American wolves contain some level of coyote DNA.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MSRizzo/MSRizzo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The coyote is a prominent character in Native American folklore, mainly in Aridoamerica, usually depicted as a trickster that alternately assumes the form of an actual coyote or a man. As with other trickster figures, the coyote uses deception and humor to rebel against social conventions. The animal was especially respected in Mesoamerican cosmology as a symbol of military might. After the European colonization of the Americas, it was seen in Anglo-American culture as a cowardly and untrustworthy animal. Unlike wolves (gray, eastern, or red), which have undergone an improvement of their public image, attitudes towards the coyote remain largely negative.
