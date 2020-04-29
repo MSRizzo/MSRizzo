@@ -1,8 +1,8 @@
 <!DOCTYPE html>
     <head>
         <title>Coyotes<title/>
-    <head>
-    <body>The coyote (Canis latrans) is a species of canine native to North America. It is smaller than its close relative, the gray wolf, and slightly smaller than the closely related eastern wolf and red wolf. It fills much of the same ecological niche as the golden jackal does in Eurasia, though it is larger and more predatory and is sometimes called the American jackal by zoologists. Other names for the species, largely historical, include the prairie wolf and the brush wolf.
+    <header>
+    <header>The coyote (Canis latrans) is a species of canine native to North America. It is smaller than its close relative, the gray wolf, and slightly smaller than the closely related eastern wolf and red wolf. It fills much of the same ecological niche as the golden jackal does in Eurasia, though it is larger and more predatory and is sometimes called the American jackal by zoologists. Other names for the species, largely historical, include the prairie wolf and the brush wolf.
 
 The coyote is listed as least concern by the International Union for Conservation of Nature, due to its wide distribution and abundance throughout North America, southwards through Mexico and into Central America. The species is versatile, able to adapt to and expand into environments modified by humans. It is enlarging its range, with coyotes moving into urban areas in the eastern U.S., and was sighted in eastern Panama (across the Panama Canal from their home range) for the first time in 2013.
 
